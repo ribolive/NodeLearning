@@ -1,0 +1,16 @@
+{
+  "name": "uflanewspublicadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^1.35.8"
+  }
+}
