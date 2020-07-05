@@ -15,4 +15,4 @@ Utilizações simples das bibliotecas:
 - nodemon
 
 Banco de dados:
-- Mongo (necessário instalação prévia)
+- MongoDB (necessário instalação prévia)
